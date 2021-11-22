@@ -1,0 +1,6 @@
+Notas
+
+
+https://github.com/g-sherman/plugin_build_tool/issues/11
+http://rubensm.com/instalar-minted-en-windows-10/
+https://es.wikibooks.org/wiki/Manual_de_LaTeX/Listados_de_c%C3%B3digo/Listados_con_minted
